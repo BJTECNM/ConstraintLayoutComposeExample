@@ -16,6 +16,17 @@ import androidx.constraintlayout.compose.ConstraintLayout
 import com.laraknife.constraintlayoutcomposeexample.ui.theme.ConstraintLayoutComposeExampleTheme
 
 class MainActivity : ComponentActivity() {
+
+    /*
+    Hecho por Brayan Josue Hernández Lara (LaraKnife)
+    Viernes 03 de Noviembre de 2023
+    Número de control: 192T0220
+    Materia: Desarrollo de aplicaciones móviles
+    Ingeniería en Sistemas Computacionales
+    Noveno Semestre
+     */
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
