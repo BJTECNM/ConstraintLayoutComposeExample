@@ -26,7 +26,6 @@ class MainActivity : ComponentActivity() {
     Noveno Semestre
      */
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
